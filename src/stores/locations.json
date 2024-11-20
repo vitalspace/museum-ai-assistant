@@ -1,0 +1,867 @@
+[
+  {
+    "id": 1,
+    "top": 1,
+    "title": "National Museum of Anthropology",
+    "lat": 19.425904567100954,
+    "lng": -99.18621875483353,
+    "altitude": 2253.2890112984564,
+    "tilt": 76.24047457938485,
+    "range": 400,
+    "heading": -80,
+    "stars": 5,
+    "reviews": 768,
+    "schedule": "08:00 AM - 17:00 PM",
+    "category": "Natural history museums - History museums",
+    "generalAdmission": "249.82",
+    "studentsAndTeachers": "124.91",
+    "prompt": "National Museum of Anthropology",
+    "place_id": "ChIJScjIILQB0oURJMVub-MaI4Q",
+    "image": "/images/museo-de-antropologia.jpg",
+    "gltf": "antropology",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Museum of Anthropology",
+        "position": {
+          "x": -6,
+          "y": 4,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "title": "SUN STONE",
+        "bgColor": "#d0a25c",
+        "size": 0.4,
+        "position": {
+          "x": 9.6,
+          "y": -3.2,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "title": "SUN STONE",
+        "bgColor": "#d0a25c",
+        "size": 0.4,
+        "position": {
+          "x": -7.55,
+          "y": -3.2,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      }
+    ],
+    "tags": [
+      "History",
+      "Anthropology",
+      "Natural History",
+      "Museum",
+      "Historia",
+      "Antropologia",
+      "Historia Natural",
+      "natural",
+      "museo",
+      "Guides available"
+    ],
+    "address": "Av. Paseo de la Reforma s/n, Polanco, Bosque de Chapultepec, 11560 Ciudad de México, CDMX, Mexico",
+    "description": "The National Museum of Anthropology is the largest and most visited museum in Mexico. It contains significant archaeological and anthropological artifacts from Mexico's pre-Columbian heritage, including the Stone of the Sun and the Aztec Xochipilli statue.",
+    "transportation": {
+      "bus": "Lines 7 and M1 stop nearby at Museo de Antropología station",
+      "metro": "Auditorio station (Line 7) is a 10-minute walk",
+      "car": "Parking available on-site (fees apply)"
+    },
+    "nearbyLandmarks": [
+      "Chapultepec Castle (10-minute walk)",
+      "Chapultepec Zoo (15-minute walk)",
+      "Museum of Modern Art (5-minute walk)"
+    ],
+    "exhibits": [
+      "Pre-Columbian artifacts",
+      "Mesoamerican sculptures",
+      "Indigenous art",
+      "Ethnographic exhibits"
+    ],
+    "facilities": [
+      "Photography allowed",
+      "Café on site",
+      "Wheelchair accessible",
+      "Guided tours available"
+    ]
+  },
+  {
+    "id": 2,
+    "top": 2,
+    "title": "Palace of Fine Arts",
+    "lat": 19.435143746200104,
+    "lng": -99.14136370219717,
+    "altitude": 2257.12537444514,
+    "tilt": 75,
+    "range": 213.30527793830703,
+    "heading": 56.810665159620086,
+    "stars": 5,
+    "reviews": 11004,
+    "schedule": "11:00 AM - 06:00 PM",
+    "category": "Art museums - Performing arts venues",
+    "generalAdmission": "2986.35",
+    "studentsAndTeachers": "124.91",
+    "prompt": "Palace of Fine Arts",
+    "place_id": "ChIJTQGqdSv50YURz-imDdIQ2Bc",
+    "image": "/images/Palace of Fine Arts.jpg",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Palace of Fine Arts",
+        "position": {
+          "x": -2.5,
+          "y": 2,
+          "z": 8
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0.85,
+          "z": 0.10000000000000009
+        }
+      },
+      {
+        "type": "floating",
+        "title": "Arts",
+        "bgColor": "#d0a25c",
+        "size": 1,
+        "position": {
+          "x": -5.6,
+          "y": -4,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.0869565217391304,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "title": "Music",
+        "bgColor": "#421d97",
+        "size": 0.5,
+        "position": {
+          "x": 8.3,
+          "y": -9,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.978260869565217,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "title": "Culture",
+        "bgColor": "#421d97",
+        "size": 0.4,
+        "position": {
+          "x": 16,
+          "y": -4.5,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.434782608695652,
+          "z": 0
+        }
+      }
+    ],
+    "tags": [
+      "Art",
+      "Fine Arts",
+      "Ballet",
+      "Opera",
+      "Architecture",
+      "Art Deco",
+      "Museum",
+      "Performing Arts",
+      "Arte",
+      "Artes Escénicas",
+      "Museo",
+      "Arquitectura",
+      "Guides available"
+    ],
+    "address": "Av. Juárez, Centro Histórico, 06050 Ciudad de México, CDMX, Mexico",
+    "description": "The Palace of Fine Arts is a prominent cultural venue in Mexico City, renowned for its stunning Art Deco architecture and vibrant murals by famous Mexican artists like Diego Rivera. It hosts diverse performances including opera, ballet, and symphonic concerts, as well as art exhibitions.",
+    "transportation": {
+      "bus": "Nearby stops include Bellas Artes (lines 8, 20, and M1)",
+      "metro": "Bellas Artes station (Lines 2 and 8) is a 2-minute walk",
+      "car": "Limited street parking; nearby garages available"
+    },
+    "nearbyLandmarks": [
+      "Alameda Central (2-minute walk)",
+      "Torre Latinoamericana (5-minute walk)",
+      "Madero Street (shopping street, 3-minute walk)"
+    ],
+    "exhibits": [
+      "Mexican muralist works",
+      "Art Deco architecture tours",
+      "Rotating art exhibitions",
+      "Performances in opera, ballet, and symphonic music"
+    ],
+    "facilities": [
+      "Photography restricted in performance halls",
+      "Café and gift shop on site",
+      "Wheelchair accessible",
+      "Guided tours available"
+    ]
+  },
+  {
+    "id": 3,
+    "top": 3,
+    "title": "Frida Kahlo Museum",
+    "lat": 19.355070093875582,
+    "lng": -99.16239353388511,
+    "altitude": 2255.4102406087004,
+    "tilt": 70,
+    "range": 100,
+    "heading": 100,
+    "stars": 4,
+    "reviews": 9914,
+    "schedule": "10:00 AM - 06:00 PM",
+    "category": "Specialized museums - Historical landmarks",
+    "generalAdmission": "729.58",
+    "studentsAndTeachers": "364.79",
+    "prompt": "Frida Kahlo Museum",
+    "place_id": "ChIJOz-6AMT_0YURofTM9_ekAWI",
+    "image": "/images/Frida Kahlo Museum.jpg",
+    "gltf": "kahlo",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Frida Kahlo Museum",
+        "bgColor": "#d0a25c",
+        "size": 1,
+        "position": {
+          "x": -9,
+          "y": 0,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0.32608695652173914,
+          "y": 0.10869565217391304,
+          "z": 0.09
+        }
+      },
+      {
+        "type": "image",
+        "url": "/images/ai-generated-kahlo.jpg",
+        "title": "Frida Kahlo",
+        "description": "Frida Kahlo was a renowned Mexican painter known for her vivid self-portraits and works inspired by pain, identity, and Mexican culture. Her unique style blends surrealism and realism, making her an icon of art and resilience.",
+        "bgColor": "#d0a25c",
+        "size": 1,
+        "buttonPosition": {
+          "x": 9.5,
+          "y": -1.5,
+          "z": 0
+        },
+        "diaglogPosition": {
+          "x": 4.8,
+          "y": -2.5,
+          "z": 0
+        },
+        "position": {
+          "x": 31.1,
+          "y": -2.42,
+          "z": -95
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 6.25
+        }
+      }
+    ],
+    "tags": [
+      "Art",
+      "History",
+      "Frida Kahlo",
+      "Diego Rivera",
+      "Museo",
+      "Arte",
+      "Historia",
+      "Coyoacán",
+      "Casa Azul"
+    ],
+    "address": "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, CDMX, Mexico",
+    "description": "The Frida Kahlo Museum, also known as La Casa Azul, is the iconic home where Frida Kahlo was born, lived, and passed away. It houses a collection of her artwork, personal items, and artifacts that provide insight into her life and creative process. Located in the vibrant neighborhood of Coyoacán, the museum offers an intimate look at the life of one of Mexico's most renowned artists.",
+    "transportation": {
+      "bus": "Routes 116 and 127 stop nearby at Allende station",
+      "metro": "Coyoacán station (Line 3) is a 15-minute walk",
+      "car": "Limited street parking available in the area"
+    },
+    "nearbyLandmarks": [
+      "Coyoacán Market (10-minute walk)",
+      "Plaza Hidalgo (8-minute walk)",
+      "Leon Trotsky Museum (15-minute walk)"
+    ],
+    "exhibits": [
+      "Frida Kahlo's artwork",
+      "Personal belongings and artifacts",
+      "Diego Rivera's collection",
+      "Garden and courtyard with sculptures"
+    ],
+    "facilities": [
+      "Photography allowed in outdoor areas",
+      "Gift shop and café on site",
+      "Wheelchair accessible",
+      "Audio guides and guided tours available"
+    ]
+  },
+  {
+    "id": 4,
+    "top": 4,
+    "title": "Soumaya Museum",
+    "lat": 19.440607241558546,
+    "lng": -99.20463634734715,
+    "altitude": 2297.1259539888715,
+    "tilt": 74.74028206646675,
+    "range": 165.44231843641685,
+    "heading": 12.180880302697346,
+    "stars": 4,
+    "reviews": 4063,
+    "schedule": "10:30 AM - 06:30 PM",
+    "category": "Specialized museums - Art museums",
+    "generalAdmission": "Free",
+    "studentsAndTeachers": "Free",
+    "prompt": "Soumaya Museum",
+    "place_id": "ChIJCT06bhoC0oURszwDTCLicpM",
+    "image": "/images/Soumaya Museum.jpg",
+    "gltf": "soumaya",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Soumaya Museum",
+        "size": 1,
+        "position": {
+          "x": -6,
+          "y": 6,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 6.304347826086957,
+          "z": 0
+        }
+      }
+    ],
+    "tags": [
+      "Art",
+      "Culture",
+      "History",
+      "Museum",
+      "Arte",
+      "Cultura",
+      "Historia",
+      "Soumaya",
+      "Museo"
+    ],
+    "address": "Blvd. Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, 11529 Ciudad de México, CDMX, Mexico",
+    "description": "The Soumaya Museum is an iconic art museum in Mexico City, known for its striking modern architecture and extensive collection of over 66,000 pieces, including works by renowned artists like Rodin, Dalí, and Rivera. Funded by the Carlos Slim Foundation, it offers free admission and is a cultural landmark in the city.",
+    "transportation": {
+      "bus": "Routes 3 and 7 stop nearby at Cervantes Saavedra station",
+      "metro": "Polanco station (Line 7) is a 15-minute walk",
+      "car": "Parking available in the Plaza Carso complex"
+    },
+    "nearbyLandmarks": [
+      "Plaza Carso (2-minute walk)",
+      "Inbursa Aquarium (5-minute walk)",
+      "Polanco neighborhood (10-minute walk)"
+    ],
+    "exhibits": [
+      "European Old Masters paintings",
+      "Auguste Rodin sculptures",
+      "Mexican muralist art",
+      "Temporary art exhibitions"
+    ],
+    "facilities": [
+      "Photography allowed in most areas",
+      "Gift shop and café on site",
+      "Wheelchair accessible",
+      "Free guided tours available"
+    ]
+  },
+  {
+    "id": 5,
+    "top": 5,
+    "title": "Templo Mayor Museum",
+    "lat": 19.43460433006409,
+    "lng": -99.13225193156576,
+    "altitude": 2235.371866284488,
+    "tilt": 74.41025776587192,
+    "range": 100.78988838869918,
+    "heading": -109.78103141665758,
+    "stars": 4,
+    "reviews": 4451,
+    "schedule": "09:00 AM - 05:00 PM",
+    "category": "Ancient ruins - History museums",
+    "generalAdmission": "244.25",
+    "studentsAndTeachers": "122.12",
+    "prompt": "Templo Mayor Museum",
+    "place_id": "ChIJ3dGBci350YURsDYUZcq-kIw",
+    "image": "/images/Templo Mayor Museum.jpg",
+    "gltf": "templo",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Templo Mayor Museum",
+        "size": 1,
+        "position": {
+          "x": -9,
+          "y": 8,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.869565217391305,
+          "z": 6.24
+        }
+      }
+    ],
+    "tags": [
+      "History",
+      "Archaeology",
+      "Aztecs",
+      "Ancient",
+      "Ruins",
+      "Museo",
+      "Historia",
+      "Arqueología",
+      "Templo",
+      "Mayor"
+    ],
+    "address": "Seminario 8, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06060 Ciudad de México, CDMX, Mexico",
+    "description": "The Templo Mayor Museum is a historic site and museum that showcases the remains of the Great Temple of the Aztecs, located in the heart of Mexico City. Visitors can explore the archaeological ruins and view a vast collection of artifacts that provide insight into Aztec civilization, including the famous Coyolxauhqui stone and offerings recovered during excavations.",
+    "transportation": {
+      "bus": "Routes 4 and 29 stop nearby at República de Argentina station",
+      "metro": "Zócalo station (Line 2) is a 5-minute walk",
+      "car": "Limited parking available near the Zócalo"
+    },
+    "nearbyLandmarks": [
+      "Zócalo Plaza (5-minute walk)",
+      "Metropolitan Cathedral (3-minute walk)",
+      "Palacio Nacional (7-minute walk)"
+    ],
+    "exhibits": [
+      "Archaeological ruins of the Templo Mayor",
+      "Coyolxauhqui stone",
+      "Aztec ceremonial artifacts",
+      "Historical documents and reconstructions"
+    ],
+    "facilities": [
+      "Photography allowed in designated areas",
+      "Gift shop available",
+      "Wheelchair accessible",
+      "Guided tours available"
+    ]
+  },
+  {
+    "id": 6,
+    "top": 6,
+    "title": "Museum of Popular Art",
+    "lat": 19.433799495761466,
+    "lng": -99.1462265287271,
+    "altitude": 2251.705293512475,
+    "tilt": 62.90296059171928,
+    "range": 78.2237256888402,
+    "heading": -21.094958808188107,
+    "stars": 4,
+    "reviews": 1154,
+    "schedule": "10:00 AM - 06:00 PM",
+    "category": "Art museums - Folk art",
+    "generalAdmission": "75.00",
+    "studentsAndTeachers": "37.50",
+    "prompt": "Museum of Popular Art",
+    "place_id": "ChIJnb61RNX40YURjLOqxoI9oh0",
+    "image": "/images/Museum of Popular Art.jpg",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Museum of Popular Art",
+        "size": 1,
+        "position": {
+          "x": -2,
+          "y": 8,
+          "z": 3
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.217391304347826,
+          "z": 6.21
+        }
+      },
+      {
+        "type": "floating",
+        "title": "Art",
+        "bgColor": "#db2c89",
+        "size": 1,
+        "position": {
+          "x": -1.3,
+          "y": -4.5,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.1,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "title": "Culture",
+        "bgColor": "#db2c89",
+        "size": 0.8,
+        "position": {
+          "x": -6.5,
+          "y": -4,
+          "z": -2
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.0869565217391304,
+          "z": 0.10869565217391304
+        }
+      }
+    ],
+    "tags": [
+      "Art",
+      "Folk Art",
+      "Culture",
+      "Mexican",
+      "Museum",
+      "Arte",
+      "Popular",
+      "Cultura",
+      "México",
+      "Museo"
+    ],
+    "address": "Calle Revillagigedo 11, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico",
+    "description": "The Museum of Popular Art in Mexico City is a vibrant showcase of Mexican folk art and crafts. Featuring colorful exhibits of textiles, pottery, masks, and alebrijes, it celebrates the rich cultural heritage and creativity of Mexico's artisans.",
+    "transportation": {
+      "bus": "Routes 1 and 9 stop nearby at Hidalgo station",
+      "metro": "Juárez station (Line 3) is a 5-minute walk",
+      "car": "Parking available at nearby lots"
+    },
+    "nearbyLandmarks": [
+      "Alameda Central (5-minute walk)",
+      "Palacio de Bellas Artes (7-minute walk)",
+      "Torre Latinoamericana (10-minute walk)"
+    ],
+    "exhibits": [
+      "Mexican folk art",
+      "Textiles and traditional clothing",
+      "Ceramics and pottery",
+      "Wooden alebrijes",
+      "Seasonal exhibitions"
+    ],
+    "facilities": [
+      "Photography allowed in some areas",
+      "Gift shop and café on site",
+      "Wheelchair accessible",
+      "Guided tours available"
+    ]
+  },
+  {
+    "id": 7,
+    "top": 7,
+    "title": "Memory and Tolerance Museum",
+    "lat": 19.4344656956579885,
+    "lng": -99.14456693184574,
+    "altitude": 2247.109800766121,
+    "tilt": 66.15200633813224,
+    "range": 91.45698763210021,
+    "heading": -127.89563306642471,
+    "stars": 4,
+    "reviews": 1607,
+    "schedule": "10:00 AM - 07:00 PM",
+    "category": "Specialized museums - History museums",
+    "generalAdmission": "129.00",
+    "studentsAndTeachers": "65.00",
+    "prompt": "Memory and Tolerance Museum",
+    "place_id": "ChIJIRo9WdX-0YUR8SAxEJ2aSHU",
+    "image": "/images/Memory and Tolerance Museum.jpg",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Memory and Tolerance Museum",
+        "size": 0.7,
+        "position": {
+          "x": -1,
+          "y": 10,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.108695652173914,
+          "z": 6.195652173913043
+        }
+      },
+      {
+        "type": "image",
+        "url": "/images/anafrank.avif",
+        "title": "Anne Frank",
+        "description": "The Memory and Tolerance Museum in Mexico City features a permanent exhibit dedicated to Anne Frank, highlighting her life, diary, and legacy. The exhibit emphasizes the importance of tolerance, human rights, and the lessons learned from the Holocaust, inspiring visitors to reflect on the consequences of discrimination and hatred.",
+        "bgColor": "#d0a25c",
+        "size": 1,
+        "buttonPosition": {
+          "x": 9,
+          "y": 2.5,
+          "z": 0
+        },
+        "diaglogPosition": {
+          "x": 4.8,
+          "y": -3,
+          "z": 0
+        },
+        "position": {
+          "x": 20,
+          "y": -6,
+          "z": -132
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5.108695652173914,
+          "z": 6.2
+        }
+      }
+    ],
+    "tags": [
+      "History",
+      "Tolerance",
+      "Human Rights",
+      "Education",
+      "Museum",
+      "Memoria",
+      "Tolerancia",
+      "Derechos Humanos",
+      "Historia",
+      "Museo"
+    ],
+    "address": "Av. Juárez 8, Colonia Centro, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, Mexico",
+    "description": "The Memory and Tolerance Museum in Mexico City educates visitors on historical and contemporary issues related to human rights, tolerance, and social justice. Through powerful exhibits on the Holocaust, genocides, and current social challenges, it aims to promote understanding and a commitment to equality and peace.",
+    "transportation": {
+      "bus": "Routes 1 and 4 stop nearby at Alameda Central",
+      "metro": "Juárez station (Line 3) is a 3-minute walk",
+      "car": "Parking available at nearby public lots"
+    },
+    "nearbyLandmarks": [
+      "Alameda Central (1-minute walk)",
+      "Palacio de Bellas Artes (5-minute walk)",
+      "Torre Latinoamericana (7-minute walk)"
+    ],
+    "exhibits": [
+      "Holocaust remembrance",
+      "Genocide awareness",
+      "Human rights education",
+      "Interactive social justice exhibits"
+    ],
+    "facilities": [
+      "Photography allowed in some areas",
+      "Gift shop and café available",
+      "Wheelchair accessible",
+      "Guided tours and educational programs"
+    ]
+  },
+  {
+    "id": 8,
+    "top": 8,
+    "title": "National Museum of Art",
+    "lat": 19.436171093194034,
+    "lng": -99.13925166451567,
+    "altitude": 2255.225544350049,
+    "tilt": 72.05294458473887,
+    "range": 120.8057850646037,
+    "heading": -39.54016042962428,
+    "stars": 4,
+    "reviews": 883,
+    "schedule": "10:00 AM - 06:00 PM",
+    "category": "Specialized museums - Art museums",
+    "generalAdmission": "90.00",
+    "studentsAndTeachers": "45.00",
+    "prompt": "National Museum of Art",
+    "place_id": "ChIJ0fhThCQA0oURALaHxBtFZ14",
+    "image": "/images/National Museum of Art.jpg",
+    "gltf": "munal",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "National Museum of Art",
+        "size": 1,
+        "position": {
+          "x": -5,
+          "y": 5,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 5,
+          "z": 6.25
+        }
+      }
+    ],
+    "tags": [
+      "Art",
+      "Painting",
+      "Mexican Art",
+      "History",
+      "Culture",
+      "Museo",
+      "Arte",
+      "Historia",
+      "Cultura",
+      "México"
+    ],
+    "address": "Tacuba 8, Centro Histórico, Cuauhtémoc, 06010 Ciudad de México, CDMX, Mexico",
+    "description": "The National Museum of Art in Mexico City is a magnificent institution showcasing Mexican art from the 16th to the 20th century. Housed in a neoclassical building, it features works by iconic Mexican artists and serves as a cultural hub for art enthusiasts.",
+    "transportation": {
+      "bus": "Routes 4 and 5 stop nearby at República de Chile",
+      "metro": "Bellas Artes station (Lines 2 and 8) is a 5-minute walk",
+      "car": "Nearby public parking available"
+    },
+    "nearbyLandmarks": [
+      "Palacio de Bellas Artes (5-minute walk)",
+      "Alameda Central (7-minute walk)",
+      "Torre Latinoamericana (8-minute walk)"
+    ],
+    "exhibits": [
+      "Mexican art collections",
+      "16th to 20th-century paintings",
+      "Sculptures and decorative arts",
+      "Temporary exhibitions"
+    ],
+    "facilities": [
+      "Photography allowed in some areas",
+      "Gift shop available",
+      "Wheelchair accessible",
+      "Guided tours offered"
+    ]
+  },
+  {
+    "id": 9,
+    "top": 9,
+    "title": "Monument to the Revolution",
+    "lat": 19.436439718731506,
+    "lng": -99.15596590995976,
+    "altitude": 2233.87156702126,
+    "tilt": 79.85433922718501,
+    "range": 353.5201353611774,
+    "heading": -80.04206736831884,
+    "stars": 4,
+    "reviews": 1367,
+    "schedule": "10:00 AM - 08:00 PM",
+    "category": "Specialized museums - Monuments and statues",
+    "generalAdmission": "150.00",
+    "studentsAndTeachers": "90.00",
+    "prompt": "Monument to the Revolution",
+    "place_id": "ChIJHwciRdL40YURIAzMPd3G_SA",
+    "image": "/images/Monument and Museum of the Revolution.jpg",
+    "gltf": "revolution",
+    "ads": [
+      {
+        "type": "banner",
+        "title": "Monument to the Revolution",
+        "size": 1,
+        "position": {
+          "x": -9,
+          "y": 9,
+          "z": 0
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      {
+        "type": "floating",
+        "bgColor": "#6a233d",
+        "title": "Revolution",
+        "size": 1,
+        "position": {
+          "x": -4.6,
+          "y": -4.2,
+          "z": -22
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0.01
+        }
+      },
+      {
+        "type": "floating",
+        "bgColor": "#6a233d",
+        "title": "History",
+        "size": 1,
+        "position": {
+          "x": 6,
+          "y": -4.2,
+          "z": -22
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0.01
+        }
+      }
+    ],
+    "tags": [
+      "History",
+      "Revolution",
+      "Mexican Revolution",
+      "Culture",
+      "Museum",
+      "Monument",
+      "Revolución",
+      "Historia",
+      "Cultura",
+      "Museo"
+    ],
+    "address": "Plaza de la República S/N, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, CDMX, Mexico",
+    "description": "The Monument and Museum of the Revolution in Mexico City is an iconic landmark dedicated to the Mexican Revolution. Featuring a panoramic view from its observation deck and a museum with historical artifacts, it offers a deep dive into the nation's revolutionary history.",
+    "transportation": {
+      "bus": "Routes 4 and 5 stop nearby at Plaza de la República",
+      "metro": "Revolución station (Line 2) is a 3-minute walk",
+      "car": "Public parking available near the plaza"
+    },
+    "nearbyLandmarks": [
+      "Alameda Central (10-minute walk)",
+      "Museo Nacional de San Carlos (8-minute walk)",
+      "Museo Franz Mayer (12-minute walk)"
+    ],
+    "exhibits": [
+      "Mexican Revolution artifacts",
+      "Revolutionary leaders' portraits",
+      "Historical documents",
+      "Interactive exhibitions"
+    ],
+    "facilities": [
+      "Photography allowed",
+      "Observation deck",
+      "Gift shop available",
+      "Wheelchair accessible",
+      "Guided tours offered"
+    ]
+  }
+]
