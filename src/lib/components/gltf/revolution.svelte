@@ -15,7 +15,7 @@ Command: npx @threlte/gltf@2.0.3 .\revolution.glb -T
 
   export const ref = new Group();
 
-  const gltf = useGltf("/assets/revolution-transformed.glb", {
+  const gltf = useGltf("assets/revolution-transformed.glb", {
     useDraco: true,
   });
 

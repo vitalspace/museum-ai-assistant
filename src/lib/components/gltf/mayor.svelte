@@ -11,7 +11,7 @@ Command: npx @threlte/gltf@2.0.3 .\mayor.glb -T
 
   export const ref = new Group();
 
-  const gltf = useGltf("/assets/mayor-transformed.glb", { useDraco: true });
+  const gltf = useGltf("assets/mayor-transformed.glb", { useDraco: true });
 
   const component = forwardEventHandlers();
 

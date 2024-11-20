@@ -10,7 +10,7 @@ Command: npx @threlte/gltf@2.0.3 .\soumaya.glb -T
 
   export const ref = new Group();
 
-  const gltf = useGltf("/assets/soumaya-transformed.glb", { useDraco: true });
+  const gltf = useGltf("assets/soumaya-transformed.glb", { useDraco: true });
 
   const component = forwardEventHandlers();
 

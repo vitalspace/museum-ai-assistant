@@ -11,7 +11,7 @@ Command: npx @threlte/gltf@2.0.3 .\munal.glb -T
 
   export const ref = new Group();
 
-  const gltf = useGltf("/assets/munal-transformed.glb", { useDraco: true });
+  const gltf = useGltf("assets/munal-transformed.glb", { useDraco: true });
 
   const component = forwardEventHandlers();
 
